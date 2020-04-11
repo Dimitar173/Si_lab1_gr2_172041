@@ -1,0 +1,6 @@
+171173,Petar Perovski,6,7,8,9,10
+173015 Angel Angelovski 6,7,7,8,9
+171045 Martin Martinovski 7,7,8,6,7
+174011 Nikola Nikolovski 10,10,10,10,10
+172043 Martina Martinovska 9,8,6,7,7
+
