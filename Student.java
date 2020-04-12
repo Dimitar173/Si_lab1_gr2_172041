@@ -3,6 +3,8 @@ class Student {
 	String firstName;
 	String lastName;
 
+    List<Integer> grades = new ArrayList<>();
+
 	//TODO constructor
 
 	//TODO seters & getters
